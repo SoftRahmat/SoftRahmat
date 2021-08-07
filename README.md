@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SoftRahmat
-- 👀 I’m interested in MEAN and MERN Stack
+- 👀 I’m interested in MEAN and MERN Stack < Flutter and Dart.
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on [secret, ""]
 - 📫 How to reach me: reach me at rahmatapon402@gmail.com
