@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahmat
-- 👀 I’m interested in MEAN and MERN Stack < Flutter and Dart.
+- 👀 I’m interested in ('MEAN' && 'MERN' Stack) < ('Flutter' && 'Dart').
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on {any: "any" }
+- 💞️ I’m looking to collaborate on {position: 'Software Engineer'}
 - 📫 How to reach me: reach me at rahmatapon402@gmail.com
 
 <!---
